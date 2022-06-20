@@ -1,0 +1,50 @@
+.signin {
+    text-align: center;
+    color: rgb(16, 78, 249);
+    font-size: 40px;
+    font-weight: 2px;
+}
+.sigbtn{
+    background-color: rgb(34, 218, 14);
+    color: white;
+    border-radius: 7px;
+    border: 1px solid black;
+    height: 40px;
+    width: 240px;
+    padding-inline:4px;
+    font-size: 20px;
+}
+.sigbtn1{
+    background-color: rgb(34, 218, 14);
+    color: white;
+    border-radius: 7px;
+    border: 1px solid black;
+    height: 40px;
+    width: 240px;
+    padding-inline:4px;
+    font-size: 20px;
+
+}
+.sigbtn2{
+    background-color: rgb(4, 85, 247);
+    color: white;
+    border-radius: 4px;
+    border: 1px solid black;
+    height: 40px;
+    width: 140px;
+    padding-inline:4px;
+    font-size: 20px;
+}
+.Login{
+    color: rgb(29, 29, 235);
+    font-size: 40px;
+}
+.cent{
+    text-align: center;
+}
+.bl{
+    color: blue;
+}
+.wt{
+    color:whitesmoke
+}
